@@ -9,3 +9,5 @@ The rainbow color is
 
 red
 green
+yellow
+grey
