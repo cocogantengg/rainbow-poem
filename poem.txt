@@ -5,4 +5,7 @@ C
 
 
 
-The rainbow
+The rainbow color is
+
+red
+green
